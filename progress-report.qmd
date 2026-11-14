@@ -98,6 +98,19 @@ The initial analysis will provide a foundation for further investigation and int
 
 Future work will include:
 
+# 7. Initial Findings
+
+The `mtcars` dataset contains 32 automobile observations. Initial examination of the data shows a negative relationship between vehicle weight and fuel efficiency.
+
+The Pearson correlation between weight and miles per gallon is approximately -0.868. This indicates a strong negative association: heavier vehicles generally have lower fuel efficiency.
+
+The initial findings support the project's research question and provide a foundation for further statistical analysis.
+
+# 8. Conclusion of Progress Report
+
+The project has established its research question, identified a suitable dataset, and developed initial R code for descriptive statistics, visualization, and correlation analysis. The next stage will focus on executing the analysis and interpreting the results in greater detail.
+
+
 - Interpreting the statistical results.
 - Examining possible outliers and unusual observations.
 - Exploring additional variables that may influence fuel efficiency.
